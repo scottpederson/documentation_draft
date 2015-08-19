@@ -1,18 +1,18 @@
-# MemberZone Documentation
+# MemberZone Documentation 
 ---
-##Intro
+## Intro
 
-##Definitions
+## Definitions
 Person:
 
 Contact:
 
 Organization:
 
-Consumer: a person not associated with association, but engaged with the assocation in some way such as registrant for an event open to the public.
+**Consumer:** a person not associated with association, but engaged with the assocation in some way such as registrant for an event open to the public.
 
-##Site Structure
+## Site Structure
 
-##Setup/Configuration
+## Setup/Configuration
 
-##The Contacts Module
+## The Contacts Module
