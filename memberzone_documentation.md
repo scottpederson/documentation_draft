@@ -15,6 +15,8 @@
 
 **Member:** an organization connected to the association through a membership
 
+**Tenant:**
+
 ## Site Structure
 
 ## Setup/Configuration
